@@ -1,0 +1,25 @@
+{
+  "rows": [
+    {
+      "tax_id": " cn-123 ",
+      "name": " 合成  供应商 ",
+      "address": " 一区 "
+    },
+    {
+      "tax_id": "CN123",
+      "name": "合成 供应商",
+      "address": "一区"
+    },
+    {
+      "tax_id": "CN124",
+      "name": "人工复核样本",
+      "address": ""
+    }
+  ],
+  "faults": [
+    "confirmation",
+    "focus_lost",
+    "validation",
+    "timeout_after_save"
+  ]
+}
